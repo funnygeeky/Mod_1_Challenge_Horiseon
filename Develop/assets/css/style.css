@@ -1,12 +1,15 @@
+/*0 padding and margin allow for full visibility of the footer*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/*background-color applied to the body element*/
 body {
     background-color: #d9dcd6;
 }
+
 
 .header {
     padding: 20px;
@@ -50,6 +53,7 @@ p {
     font-size: 16px;
 }
 
+/*hero/jumbotron style start*/
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +62,10 @@ p {
     background-size: cover;
     background-position: center;
 }
+/*hero/jumbotron stye end*/
+
+
+/*content section style start*/
 
 .float-left {
     float: left;
