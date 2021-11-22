@@ -6,3 +6,6 @@ Using the Chrome Devtools Lighthouse accessibility report and best practices:
 3. Decorative elements will be ignored with an empty alt attribute or given a simplistic description.
 4. Ensure the webpage is mobile friendly.
 5. Ensure content best practices are followed.
+
+The URL for the web application is:
+https://funnygeeky.github.io/Mod_1_Challenge_Horiseon/
