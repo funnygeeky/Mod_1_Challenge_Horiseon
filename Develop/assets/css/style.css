@@ -27,7 +27,7 @@ p {
     background-color: #2a607c;
     color: #ffffff;
     /*to make header items stack in smaller screen*/
-    position: fixed;
+    position: relative;
 }
 
 .header h1 {
