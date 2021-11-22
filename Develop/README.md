@@ -9,3 +9,7 @@ Using the Chrome Devtools Lighthouse accessibility report and best practices:
 
 The URL for the web application is:
 https://funnygeeky.github.io/Mod_1_Challenge_Horiseon/
+
+URL application screenshot:
+<img width="1241" alt="Screen Shot 2021-11-22 at 2 19 40 PM" src="https://user-images.githubusercontent.com/55448332/142922606-f1caf5e4-b4d1-4222-9429-a6d2f5867aa8.png">
+
