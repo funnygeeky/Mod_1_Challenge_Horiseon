@@ -3,12 +3,15 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    
 }
 
 /*background-color applied to the body element*/
 body {
     background-color: #d9dcd6;
-}
+    /*to make the site mobile friendly*/
+    position:relative;
+}   
 a {
     color: #ffffff;
     text-decoration: none;
@@ -23,6 +26,8 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
+    /*to make header items stack in smaller screen*/
+    position: fixed;
 }
 
 .header h1 {
@@ -98,6 +103,7 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    
 }
 
 .content-article {
@@ -107,6 +113,8 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    position:flex;
+    flex-wrap:wrap
 }
 
 .float-left {
