@@ -147,3 +147,11 @@ max-height: 200px;
 .footer h2 {
     font-size: 20px;
 }
+
+/*to make the website mobile-friendly*/
+@media screen and (min-width:760px) {
+    content {
+        width: 100%
+    };
+    
+}
